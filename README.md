@@ -1,4 +1,4 @@
-# Sentiment Analysis on Amazon Reviews with Apache Spark and Spark NLP
+# Convolutional Neural Networks for Synthetic Image Detection
 ## Overview
 This project delves into the ethical dimensions of generative AI art, particularly focusing on the potential ramifications of synthetic images in various societal contexts. It explores the ongoing debate surrounding the validity of such art forms and raises critical ethical considerations regarding their use in formal settings like politics, business, and decision-making processes.
 
