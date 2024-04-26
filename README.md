@@ -24,7 +24,7 @@ The GitHub repository contains code for all five modeling approaches.
 
 ## Results
 - Models were evaluated based on accuracy with differenct choices of hyperparameters.
-- Support Vector Machine performed the best, achieving high accuracy across all metrics.
+- AlexNet performed the best, achieving high accuracy in classifying fake and real images.
   
 ## Conclusion
 - Fine-tuning hyperparameters such as learning rate, batch size, and epochs could significantly enhance the model's ability to differentiate between real and fake images, thereby increasing accuracy and precision.
